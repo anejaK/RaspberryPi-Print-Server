@@ -18,11 +18,14 @@ Installed CUPS on the pi and configred it to for my project, like changing port 
 
 As CUPS is a Unix based system we have to make sure we can communicate it through our windows or linux based system across network. For this I insatlled Samba which is an interoperability tool that allows the windows based system to communicate with CUPS running on the Raspberry Pi to print. Configured print section in the samba configuration file for allowing guest in the network.
 
+![](addPrinter.png) 
+
 ## Adding Printer to the server
 After all above steps, added my HP printer to the server by going to the CUPS server. After setting up printer on server byu selecting appropriate model, we add a printer device on our windows system by searching it over the network. Once added, set-up is ready and you have your own wireless printer. 
 
-![](addPrinter.png) 
 
 ![](printer.png) 
 
-![](setUp.jpg) 
+# The final set-up
+
+![](setup.jpg) 
