@@ -29,3 +29,7 @@ After all above steps, added my HP printer to the server by going to the CUPS se
 # The final set-up
 
 ![](setup.jpg) 
+
+
+
+References : https://circuitdigest.com/microcontroller-projects/raspberry-pi-print-server
