@@ -25,4 +25,4 @@ After all above steps, added my HP printer to the server by going to the CUPS se
 
 ![](printer.png) 
 
-![](setUp.png) 
+![](setUp.jpg) 
